@@ -9,6 +9,9 @@ const photos = [
   "assets/m4.jpg",
   "assets/m5.jpg",
   "assets/m6.jpg",
+    "assets/m7.jpg",
+      "assets/m8.jpg",
+        "assets/m9.jpg",
 ];
 
 photos.forEach(src=>{
